@@ -18,7 +18,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+   # url: /cv/
+   url: /files/Curriculum_Vitae_website
     
  # - title: "Guide"
   #  url: /markdown/
