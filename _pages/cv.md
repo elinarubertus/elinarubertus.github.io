@@ -1,3 +1,5 @@
+<embed src="https://username.github.io/files/Resume.pdf" type="application/pdf" width="600px" height="500px" />
+
 ---
 layout: archive
 title: "CV"
