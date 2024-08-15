@@ -1,2 +1,2 @@
-embed src="elinarubertus.github.io/files/Resume.pdf" width="600" height="700" type='application/pdf'
+embed src="https://elinarubertus.github.io/files/Resume.pdf" type="application/pdf" width="600px" height="500px" /
 
