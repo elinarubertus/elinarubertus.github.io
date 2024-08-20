@@ -53,7 +53,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 3em;
+    margin-top: 1em;
     border-bottom: none;
   }
 }
@@ -75,11 +75,32 @@
   }
 }
 
+.archive_item:hover {
+   .archive_item-reaser {
+      box-shadow: 0 0 10px rgba(#000, 0.25);
+   }
+
+   .archive_item-title{
+      text-decoration: underline;
+   }
+}
+
 /*
    List view
    ========================================================================== */
 
 .list__item {
+   @include breakpoint ($medium) {
+      padding-right: $right-sidebar-width-narrow;
+   }
+
+   @include breakpoint($large) {
+      padding-right: $right-sidebar-width;
+   }
+
+   @include breakpoint($x-large) {
+      padding-right: $right-sidebar-width-wirde;
+   }
 
   .page__meta {
     margin: 0 0 4px;
