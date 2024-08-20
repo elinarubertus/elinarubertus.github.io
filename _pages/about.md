@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Hello! My website is still in progress, but I'm getting there..."
+title: "
+Hello! My website is still in progress, but I'm getting there..."
 author_profile: true
 redirect_from: 
   - /about/
