@@ -16,4 +16,4 @@ In March 2024, I successfully defended my [doctoral thesis](https://doi.org/10.2
 
 When I don't work, I spend time with my children (playing, baking, biking, ... and monitoring their language ;)). I love making music, both at the piano and in the [University's choir](https://www.uni-potsdam.de/de/chor-orchester/campus-cantabile-chor-der-universitaet-potsdam). During the summer months, I also enjoy Potsdam's lakes, best from inside a dragon boat.
 
-
+This website is still under construction and I'm adding more and more content. So, happy browsing and stay tuned!
