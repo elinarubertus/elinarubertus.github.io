@@ -1,7 +1,7 @@
 ---
 title: "How Do Children Organize Their Speech in the First Years of Life? Insight From Ultrasound Imaging"
 collection: publications
-permalink: /publication/2018-Noiray
+permalink: /publications/2018-Noiray
 date: 2018-06-19
 venue: 'Journal of Speech, Language, and Hearing Research'
 link: 'https://doi.org/10.1044/2018_JSLHR-S-17-0148'
