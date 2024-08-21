@@ -1,6 +1,7 @@
 ---
 title: "Coarticulation in Children"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Coarticulation.png'{: .align-left width="500px"}>"
+excerpt: "Short description of portfolio item number
+![Illustration of Coarticulation](/images/Coarticulation.png){: .align-left width="500px"}"
 collection: portfolio
 ---
 
