@@ -11,6 +11,7 @@ This is an introductory lecture for BA General Linguistics and BA Computational 
 I held this lecture in the winter terms 2015, 2016, 2017, 2018, and 2019.
 
 [Example syllabus](/files/Syllabus_VorlesungLA.pdf) (in German)
+[Coarticulation](/files/BabyLAB_Newsletter_2016_LOLA.pdf)
 
 ## Speech Production in First Language Acquisition, University of Potsdam
 This is an advanced seminar for BA General Linguistics and BA Computational Linguistics. It focuses on various aspects related to the acquisition of spoken language. In addition to input and plenary discussions, in this class, students worked on subtopics of their choice which they presented in class.
