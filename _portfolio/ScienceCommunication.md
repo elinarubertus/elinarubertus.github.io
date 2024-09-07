@@ -14,6 +14,6 @@ To inform the families of the BabyLAB's young participants about our ongoing stu
 
 I also took part in writing an article for Portal Wissen, a science magazine of the University of Potsdam, in which Aude Noiray and I introduced our laboratory and our ongoing studies. The article can be found [here](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/44088/file/portalwissen_2016_02.pdf) on pages 30-35.
 
- <br/><img src='/images/ScienceDay.png'>
+ <br/><img src='/images/ScienceDay_klein.png'>
 
 
