@@ -10,6 +10,7 @@ As a final project of a certified qualification program on science communication
 
 {% include youtube.html id="7y9grhzLrug" %}
 
+ 
 On several [Potsdam Science Days](https://potsdamertagderwissenschaften.de/), I also represented our laboratories in [posters](/files/Koartikulation_Poster_final.pdf) and set up interactive information stands for children and adults to learn more about their speech articulators, demonstrating how ultrasound tongue imaging works and which questions we can use it for in linguistic research. 
 
 To inform the families of the BabyLAB's young participants about our ongoing studies as well as recent results, I described two of our studies in casual language targeted at the broad public. They can be found [here](/files/BabyLAB_Newsletter_2016_LOLA.pdf) and [here](/files/BabyLAB_Newsletter_LesArt.pdf).
