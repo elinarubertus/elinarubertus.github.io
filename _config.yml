@@ -350,9 +350,9 @@ compress_html:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "de-de"]
-default_lang: "en-us"
-exclude_from_localization: ["assets"]
-lang_from_path: true
-country_flag: false # set true for allowing flag symbol in language toggle
-parallel_localization: false
+# languages: ["en-us", "de-de"]
+# default_lang: "en-us"
+# exclude_from_localization: ["assets"]
+# lang_from_path: true
+# country_flag: false # set true for allowing flag symbol in language toggle
+# parallel_localization: false
