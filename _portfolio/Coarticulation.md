@@ -2,7 +2,9 @@
 title: "Coarticulation in Children"
 excerpt: "<br/><img src='/images/Coarticulation_klein.png'>"
 collection: portfolio
+order_number: 10
 ---
+
 
 Together with [Aude Noiray](https://noirayaude.wordpress.com/), I conducted work on coarticulatory changes across childhood. This was done in close collaboration with the University of Potsdam's [BabyLAB](https://www.uni-potsdam.de/de/babylab/index). Coarticulation refers to the overlap of articulatory gestures enabling fluent speech production. For example, although both words "bee" and "boat" start with the same sound (/b/), the tongue body already anticipates the vowel from the start of the word - during /b/, it is positioned in the front of the mouth when we say "bee", because this is necessary for /i/, but bunched in the back of the mouth when we say "boat". While we perceive the /b/ in "bee" to be exactly the same as the /b/ in "boat", the configurations of our articulators, therefore, differ.
 
