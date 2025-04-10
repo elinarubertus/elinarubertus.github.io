@@ -2,6 +2,7 @@
 title: "Science Communication"
 excerpt: "<br/><img src='/images/SciComm_klein.png'>"
 collection: portfolio
+order_number: 30
 ---
 
 In recent years, I have developed a passion for science communication. It probably started in class when I put effort in how to simplify complex concepts to be understandable for undergraduates and how to convey the information in a captivating and sustainable way.
