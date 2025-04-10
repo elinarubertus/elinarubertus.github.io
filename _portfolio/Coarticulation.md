@@ -2,7 +2,6 @@
 title: "Coarticulation in Children"
 excerpt: "<br/><img src='/images/Coarticulation_klein.png'>"
 collection: portfolio
-order_number: 10
 ---
 
 
