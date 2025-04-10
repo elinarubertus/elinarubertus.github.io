@@ -2,7 +2,6 @@
 title: "Crossing the borders"
 excerpt: "<br/><img src='/images/Crossing_Gesicht_klein.jpg'>"
 collection: portfolio
-order_number: 20
 ---
 
 **[Crossing the Borders](https://crossing-project.de/): The Interplay of Language, Cognition, and the Brain in Early Human Development**
