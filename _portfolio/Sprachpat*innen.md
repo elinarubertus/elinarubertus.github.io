@@ -1,5 +1,5 @@
 ---
-title: "Sprachpat*innen für Kita-Kinder"
+title: "Sprachpat*innen für Kita-Kinder (in German)"
 excerpt: "<br/><img src='/images/Logo.png'>"
 collection: portfolio
 ---
