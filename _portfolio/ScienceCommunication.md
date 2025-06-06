@@ -1,10 +1,10 @@
 ---
-title: "Science Communication"
+title: "Outreach"
 excerpt: "<br/><img src='/images/SciComm_klein.png'>"
 collection: portfolio
 ---
 
-In recent years, I have developed a passion for science communication. It probably started in class when I put effort in how to simplify complex concepts to be understandable for undergraduates and how to convey the information in a captivating and sustainable way.
+In recent years, I have developed a passion for transmitting scientific finding to the public. It probably started in class when I put effort in how to simplify complex concepts to be understandable for undergraduates and how to convey the information in a captivating and sustainable way.
 
 As a final project of a certified qualification program on science communication, I created a [video](https://www.youtube.com/watch?v=7y9grhzLrug) to raise public awareness for developmental language disorders. This became a heartfelt topic that I continued to work on, for example in a [poster](/files/SES_Poster_final.pdf) for the Potsdam Science Day.
 
